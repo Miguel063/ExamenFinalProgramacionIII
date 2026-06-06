@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Data/">
+    <File Path="AppDbContext.cs" />
+  </Folder>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="Client.cs" />
+  </Folder>
+  <Folder Name="/Models/">
+    <File Path="Cart.cs" />
+    <File Path="CartItem.cs" />
+    <File Path="Product.cs" />
+  </Folder>
+  <Project Path="ExamenFinalProgramacionIII.csproj" />
+</Solution>

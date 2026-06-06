@@ -1,0 +1,311 @@
+{
+  "info": {
+    "name": "ExamenFinalProgramacionIII",
+    "_postman_id": "e3f6f7d1-1f25-4bfa-9d11-123456789abc",
+    "description": "Colección completa para Productos, Clientes y Carritos (Sync y Async)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5145"
+    }
+  ],
+  "item": [
+    {
+      "name": "Products Async",
+      "item": [
+        {
+          "name": "GET Todos",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/productsasync"
+          }
+        },
+        {
+          "name": "GET Producto ID 1",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/productsasync/1"
+          }
+        },
+        {
+          "name": "POST Crear Producto",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Monitor Gamer\",\n  \"price\": 3500,\n  \"stock\": 15\n}"
+            },
+            "url": "{{baseUrl}}/api/productsasync"
+          }
+        },
+        {
+          "name": "PUT Actualizar Producto 1",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": 1,\n  \"name\": \"Laptop Gamer RTX\",\n  \"price\": 18000,\n  \"stock\": 20\n}"
+            },
+            "url": "{{baseUrl}}/api/productsasync/1"
+          }
+        },
+        {
+          "name": "POST Process Async",
+          "request": {
+            "method": "POST",
+            "url": "{{baseUrl}}/api/productsasync/process"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Products Sync",
+      "item": [
+        {
+          "name": "GET Todos",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/productssync"
+          }
+        },
+        {
+          "name": "GET Producto ID 2",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/productssync/2"
+          }
+        },
+        {
+          "name": "POST Crear Producto",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Teclado Mecánico\",\n  \"price\": 800,\n  \"stock\": 30\n}"
+            },
+            "url": "{{baseUrl}}/api/productssync"
+          }
+        },
+        {
+          "name": "PUT Actualizar Producto 2",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": 2,\n  \"name\": \"PC Gamer RTX\",\n  \"price\": 28000,\n  \"stock\": 8\n}"
+            },
+            "url": "{{baseUrl}}/api/productssync/2"
+          }
+        },
+        {
+          "name": "POST Process Sync",
+          "request": {
+            "method": "POST",
+            "url": "{{baseUrl}}/api/productssync/process"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clients Async",
+      "item": [
+        {
+          "name": "GET Todos",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/Client"
+          }
+        },
+        {
+          "name": "GET Cliente ID 1",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/Client/1"
+          }
+        },
+        {
+          "name": "POST Crear Cliente",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Miguel Lopez\",\n  \"email\": \"miguel@test.com\",\n  \"phone\": \"5555-1234\"\n}"
+            },
+            "url": "{{baseUrl}}/api/Client"
+          }
+        },
+        {
+          "name": "PUT Cliente ID 1",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": 1,\n  \"name\": \"Cliente Actualizado\",\n  \"email\": \"cliente@correo.com\",\n  \"phone\": \"5555-9999\"\n}"
+            },
+            "url": "{{baseUrl}}/api/Client/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clients Sync",
+      "item": [
+        {
+          "name": "GET Todos",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/ClientSync"
+          }
+        },
+        {
+          "name": "GET Cliente ID 2",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/ClientSync/2"
+          }
+        },
+        {
+          "name": "POST Crear Cliente",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Juan Perez\",\n  \"email\": \"juan@test.com\",\n  \"phone\": \"4444-4444\"\n}"
+            },
+            "url": "{{baseUrl}}/api/ClientSync"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cart Async",
+      "item": [
+        {
+          "name": "Crear Carrito",
+          "request": {
+            "method": "POST",
+            "url": "{{baseUrl}}/api/CartAsync"
+          }
+        },
+        {
+          "name": "Obtener Carrito",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/CartAsync/1"
+          }
+        },
+        {
+          "name": "Agregar Producto",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"productId\": 1,\n  \"quantity\": 2\n}"
+            },
+            "url": "{{baseUrl}}/api/CartAsync/1/add"
+          }
+        },
+        {
+          "name": "Total Carrito",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/CartAsync/1/total"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cart Sync",
+      "item": [
+        {
+          "name": "Crear Carrito",
+          "request": {
+            "method": "POST",
+            "url": "{{baseUrl}}/api/Cart"
+          }
+        },
+        {
+          "name": "Obtener Carrito",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/Cart/1"
+          }
+        },
+        {
+          "name": "Agregar Producto",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"productId\": 2,\n  \"quantity\": 1\n}"
+            },
+            "url": "{{baseUrl}}/api/Cart/1/add"
+          }
+        },
+        {
+          "name": "Total Carrito",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/Cart/1/total"
+          }
+        }
+      ]
+    }
+  ]
+}

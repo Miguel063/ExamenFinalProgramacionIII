@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\controllers\\cartsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:controllers\\cartsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\controllers\\clientsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:controllers\\clientsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|c:\\users\\migue\\source\\repos\\examenfinalprogramacioniii\\controllers\\productsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3B1AA-0AFD-357D-A79E-6D1A1D87C9F7}|ExamenFinalProgramacionIII.csproj|solutionrelative:controllers\\productsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\ApiAsync\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAsync\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-06T02:28:02.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartSyncController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\CartSyncController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartSyncController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\CartSyncController.cs",
+              "RelativeToolTip": "Controllers\\CartSyncController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:45:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientSyncController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ClientSyncController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientSyncController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ClientSyncController.cs",
+              "RelativeToolTip": "Controllers\\ClientSyncController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:37:10.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:35:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:31:57.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:53:01.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T23:44:39.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\CartItem.cs",
+              "RelativeDocumentMoniker": "CartItem.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\CartItem.cs",
+              "RelativeToolTip": "CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T23:36:03.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:45:25.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-05T20:38:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\ApiAsync\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiAsync\\Dockerfile",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\ApiAsync\\Dockerfile",
+              "RelativeToolTip": "ApiAsync\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-05T20:38:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:55:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:42:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductSyncController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ProductSyncController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductSyncController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ExamenFinalProgramacionIII\\Controllers\\ProductSyncController.cs",
+              "RelativeToolTip": "Controllers\\ProductSyncController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T22:54:03.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
