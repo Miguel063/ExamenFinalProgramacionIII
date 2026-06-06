@@ -5,3 +5,4 @@ Es un mecanismo utilizado en la arquitectura de software para desacoplar compone
 
 
 # 2 Elabore un diagrama de como la herramienta utilizada para su proyecto (Kafka, RabbitMQ, SQS), puede contribuir a que una aplicacion de comercio Electronico pueda recibir una mayor cantidad de solicitudes simultaneas.
+<img width="462" height="682" alt="2 drawio" src="https://github.com/user-attachments/assets/8a401215-dfbf-43b2-8f36-9c8316ecd37b" />
